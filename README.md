@@ -21,7 +21,17 @@ torchvision
 thop
 ```
 
+### Prepare the dataset
+
+Our detailed splitting of  the datasets is release in "dataset", in which "EG1800" and "CelebAMASK" follow the official split scheme.
+
+The specicalized HELEN dataset can be downloaded from:
+
+Link：https://pan.baidu.com/s/1IBMVqzRjT91MATCKHZ3Ipw 
+code：ZH65
+
 ## Getting Started
+
 ```bash
 pip install --upgrade pip
 pip install --upgrade jupyter notebook
